@@ -1,4 +1,4 @@
 ---
 dist: focal
 arch: arm64 
-script: "arm64-v8"
+script: echo "arm64-v8"
