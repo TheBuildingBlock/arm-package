@@ -1,0 +1,4 @@
+---
+dist: focal
+arch: arm64 
+script: "arm64-v8"
